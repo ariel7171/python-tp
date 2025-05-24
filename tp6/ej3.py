@@ -14,7 +14,7 @@ constructor que acepte el lado del cubo.
 Modificar la clase Circulo para que herede ahora también de FiguraBidimensional.
 """
 from abc import ABC, abstractmethod
-from ej2 import FiguraGeometrica
+from tp7.ej2 import FiguraGeometrica
 import math
 import copy
 
